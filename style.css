@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.container{
+    text-align: center;
+    border: 2px solid black;
+    padding: 20px;
+
+}
+#click-me{
+  border-radius: 10px;
+  background-color: black;
+  color: white;
+  padding: 20px;
+  cursor: pointer;
+}
+#click-me:hover{
+   background-color: transparent;
+   color: black;
+}
